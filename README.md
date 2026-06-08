@@ -2,11 +2,6 @@
 
 🎓 Electronics and Communication Engineering Student
 
-🔹 Embedded Systems
-🔹 FPGA Design
-🔹 SystemVerilog
-🔹 Data Engineering
-🔹 IoT Projects
 
 ## 🛠️ Skills
 
