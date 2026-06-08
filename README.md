@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Revanth 👋
 
-<!--
-**REVANTH9493/revanth9493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Student
 
-Here are some ideas to get you started:
+🔹 Embedded Systems
+🔹 FPGA Design
+🔹 SystemVerilog
+🔹 Data Engineering
+🔹 IoT Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Verilog
+- SystemVerilog
+- FPGA
+- Arduino
+- ESP8266 / NodeMCU
+- Python
+- SQL
+- PySpark
+- Databricks
+- AWS S3
+
+## Featured Projects
+
+### DDR4 Subsystem for High Speed Memory Access
+- RTL Design
+- Verification
+- High-speed memory controller concepts
+
+### Retail Sales Data Engineering Pipeline
+- Databricks
+- Delta Lake
+- Unity Catalog
+- AWS S3
+- PySpark
+
+### 3D Portable Scanner
+- Embedded Systems
+- Sensors
+- Hardware Integration
+
+## Connect
+
+Portfolio: your-link
+
+LinkedIn: your-link
